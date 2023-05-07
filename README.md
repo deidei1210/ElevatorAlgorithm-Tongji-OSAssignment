@@ -14,6 +14,10 @@
 •**主要引用块内容**:     
     1.PyQt5（QtCore，QtWidgets，QThread，QMutex, QTimer）    
     2.Enum    
-    3.partial
- 
+    3.partial      
+    
+![image]( https://github.com/deidei1210/ElevatorAlgorithm-Tongji-OSAssignment/blob/master/%E8%BF%90%E8%A1%8C%E5%9B%BE%E7%89%87.png)
+（参考代码：）
+    
+
 
